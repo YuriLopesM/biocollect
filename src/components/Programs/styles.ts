@@ -16,7 +16,7 @@ export const Container = styled.section`
         align-items: center;
         justify-content: center;
         gap: 1.5rem;
-        padding: 0 15%;
+        padding: 0 15%; 
 
         p {
             text-align: center;
@@ -26,12 +26,12 @@ export const Container = styled.section`
 
     main {
         width: 100%;
-        min-height: 70%;
+
         position: relative;
 
         display: flex;
         justify-content: space-between;
-        padding: 1rem 0;
+        padding: 2rem 0;
         
         figure {
             height: 100%;

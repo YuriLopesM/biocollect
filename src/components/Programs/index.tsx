@@ -12,8 +12,8 @@ export function Programs() {
                 <figure>
                     <Image 
                         src="/assets/FruitSeller.svg"
-                        width={300}
-                        height={300}
+                        width={328}
+                        height={328}
                         priority
                     />
                     <span>Produtos orgânicos</span>
@@ -21,8 +21,8 @@ export function Programs() {
                 <figure>
                     <Image 
                         src="/assets/CowFarmer.svg"
-                        width={300}
-                        height={300}
+                        width={328}
+                        height={328}
                         priority
                     />
                     <span>Dejetos animais</span>
@@ -30,8 +30,8 @@ export function Programs() {
                 <figure>
                     <Image 
                         src="/assets/StartUp.svg"
-                        width={300}
-                        height={300}
+                        width={328}
+                        height={328}
                         priority
                     />
                     <span>Compostas individuais</span>

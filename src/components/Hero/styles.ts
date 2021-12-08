@@ -28,14 +28,15 @@ export const Container = styled.main`
                 flex-direction: column;
                 align-items: center;
                 gap: 1rem;
-                width: 60%;
+                width: 70%;
 
                 button {
+                    font-size: 1.125rem;
                     width: 100%;
                 }
                 
                 span {
-                    font-size: 0.725rem;
+                    font-size: 1rem;
                     font-weight: 500;
 
                     color: ${props => props.theme.colors.dark_gray};
