@@ -4,7 +4,6 @@ import { Layout } from '@/components/UI/Layout'
 import { Programs } from '@/components/Programs'
 import { Conscience } from '@/components/Conscience'
 import { Clients } from '@/components/Clients'
-import { About } from '@/components/About'
 
 function Home() {
   return (
@@ -17,7 +16,6 @@ function Home() {
       <Programs />
       <Conscience />
       <Clients />
-      <About />
     </Layout>
   )
 }
