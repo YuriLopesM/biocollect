@@ -1,34 +1,77 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+  
+# 🍀 Biocollect 🍀
+  
+</div>
 
-## Getting Started
+![biocollect](https://user-images.githubusercontent.com/75103144/145992463-61996c80-2aa3-40ee-868b-a6eea9ccf90d.gif)
 
-First, run the development server:
+## 📘 Description
 
-```bash
+A mini chemistry project, where students should approach the topic using dynamic methodologies and involving the exchange of ideas between teacher and students. 
+
+For this, my group created a fantasy company (called Biocollect) that offers organic collection routes for members of family farming - in order to put the material in compost and generate biomass and biogas. One of my friends make a 3D model with Blender, and I have the idea to create a simple landing page 👾
+
+## 🚩 Table of Contents
+
+- [Installation](#-installation)
+- [Execution](#-execution)
+- [Tools](#-tools)
+- [limitations](#-limitations)
+- [About me](#-about-me)
+
+## ⚙ Installation
+
+Use `git clone` or download the source code. You can install the dependencies with **npm**, **yarn** or other package manager. Example:
+```
+npm install
+```
+```
+yarn
+```
+
+## 🕹️ Execution
+
+To run this project, use:
+
+```
 npm run dev
-# or
+```
+```
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## ✨ Tools
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+- NextJS
+- ReactJS
+- TypeScript
+- Styled-Components
+- Polished
+- [Duotone Cartoon Set](https://designs.ai/graphicmaker/illustrations/Duotone_Cartoon_Set) by DESIGNS.AI
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+## 🎃 Limitations
 
-To learn more about Next.js, take a look at the following resources:
+The premise is to be very simple (created in two nights), and I wanted to do something different to a common grade discipline. So this project doesn't have what a Landing Page normally has:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Integrations with CMS (But I would like to study Strapi or Prismic someday)
+- Mobile and Responsive Design
+- SEO
+- Animations (In this case, I would probably have used Framer Motion)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+and other stuff 🤠
 
-## Deploy on Vercel
+## 🐘 About me
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<p align = "center">
+  <img src = "https://i.ibb.co/x7d4DBt/Asset-1.png" alt = "Logo" border = "0">
+</p> 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<p align = "center">
+  You can reach me in other social medias, see my GitHub Profile!
+  Feel free to message me or give a feedback! :smile:
+</p> 
+
+
