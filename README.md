@@ -30,7 +30,7 @@ npm install
 yarn
 ```
 
-## 🕹️ Execution
+## 🧩 Execution
 
 To run this project, use:
 
