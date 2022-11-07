@@ -3,7 +3,6 @@
 # 🍀 Biocollect 🍀
  
 ![Repo Size](https://img.shields.io/github/repo-size/YuriLopesM/biocollect)
-![Lines of Code](https://img.shields.io/tokei/lines/github.com/YuriLopesM/biocollect)
   
 </div>
 
